@@ -1,6 +1,6 @@
 {
   "name": "vseeface-settings-switcher",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "app to change vseeface settings for multiple avatars",
   "main": "app/main.js",
   "repository": {
@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/swolekat/vseeface-settings-switcher#readme",
   "build": {
-    "appId": "com.example.electron-boilerplate",
+    "appId": "swolekat.vseeface-settings-switcher",
     "files": [
       "app/**/*",
       "node_modules/**/*",
